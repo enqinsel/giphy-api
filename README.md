@@ -2,7 +2,7 @@
 
 I pulled the data from GIPHY.com with axios api. Then, I published it on firebase.
 
-<a href="https://giphy-search-api-vuejs.web.app/">LIVE</a>
+<a href="https://giphy-search-api-vuejs.web.app/"><b>--> LIVE <--</b></a>
 
 Example search keyword: car, garfield, software etc.
 
